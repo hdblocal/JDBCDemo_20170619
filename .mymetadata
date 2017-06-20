@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JDBCDemo_20170619"
+  id="myeclipse.1497875801488"
+  context-root="/JDBCDemo_20170619"
+  j2ee-spec="5.0"
+  archive="JDBCDemo_20170619.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
